@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "twitter.consumer.key",
+      "type": "java.lang.String",
+      "description": "Description for twitter.consumer.key."
+    },
+    {
+      "name": "twitter.consumer.secret",
+      "type": "java.lang.String",
+      "description": "Description for twitter.consumer.secret."
+    },
+    {
+      "name": "message.track",
+      "type": "java.lang.String",
+      "description": "Description for message.track."
+    },
+    {
+      "name": "message.max.count",
+      "type": "java.lang.String",
+      "description": "Description for message.max.count."
+    },
+    {
+      "name": "message.streaming.max.duration",
+      "type": "java.lang.String",
+      "description": "Description for message.streaming.max.duration."
+    }
+  ] }
